@@ -1,8 +1,3 @@
-class A{
-
-}
-
-
-class B{
+class another{
     
 }
