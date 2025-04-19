@@ -1,4 +1,5 @@
 
+
 class A
 {
     int i;
@@ -24,6 +25,10 @@ class here{
 }
 
 class f22{
+
+
+class A
+{
 
     
 }
